@@ -1,4 +1,3 @@
-![Banner](https://i.imgur.com/ocgbupl.png)
 ---
 <h1 align="center">Hi 👋, I'm Wennlys Oliveira</h1>
 <h3 align="center">A brazilian developer on the road to be a great fullstack.</h3>
